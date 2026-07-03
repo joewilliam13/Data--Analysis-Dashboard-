@@ -34,3 +34,15 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Dashboard
 -<a href="https://github.com/joewilliam13/Data--Analysis-Dashboard-/blob/main/Dashboard.png">Dashboard</a>
+
+## Final Insights
+-The dashboard provides a comprehensive view of car sales performance through interactive and dynamic visualizations.
+-Year-to-Date (YTD), Month-to-Date (MTD), and Year-over-Year (YOY) KPIs enable continuous monitoring of business growth and performance.
+-Sales analysis by body style, color, and dealer region helps identify high-performing product categories and geographic markets.
+-Weekly sales trend analysis highlights seasonal patterns and supports demand forecasting.
+-Company-wise sales comparisons reveal top-performing brands and opportunities for business improvement.
+-Interactive filters allow users to explore sales data efficiently and make informed, data-driven decisions.
+
+## Final Conclusion
+
+The Car Sales Dashboard demonstrates how Power BI can transform raw sales data into meaningful business insights. By integrating data modeling, Power Query, DAX calculations, and interactive visualizations, the dashboard enables stakeholders to monitor key performance indicators, evaluate sales trends, and identify growth opportunities. This project highlights the value of business intelligence in supporting strategic decision-making and improving overall sales performance.
