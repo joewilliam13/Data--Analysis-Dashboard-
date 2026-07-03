@@ -32,3 +32,5 @@ The dashboard should provide real-time insights into key performance indicators 
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
+## Dashboard
+-<a href="https://github.com/joewilliam13/Data--Analysis-Dashboard-/blob/main/car%20sales.pbix">Dashboard</a>
