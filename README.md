@@ -33,4 +33,4 @@ The dashboard should provide real-time insights into key performance indicators 
 6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
 ## Dashboard
--<a href="https://github.com/joewilliam13/Data--Analysis-Dashboard-/blob/main/car%20sales.pbix">Dashboard</a>
+-<a href="https://github.com/joewilliam13/Data--Analysis-Dashboard-/blob/main/Dashboard.png">Dashboard</a>
