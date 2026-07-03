@@ -36,12 +36,12 @@ The dashboard should provide real-time insights into key performance indicators 
 -<a href="https://github.com/joewilliam13/Data--Analysis-Dashboard-/blob/main/Dashboard.png">Dashboard</a>
 
 ## Final Insights
--The dashboard provides a comprehensive view of car sales performance through interactive and dynamic visualizations.
--Year-to-Date (YTD), Month-to-Date (MTD), and Year-over-Year (YOY) KPIs enable continuous monitoring of business growth and performance.
--Sales analysis by body style, color, and dealer region helps identify high-performing product categories and geographic markets.
--Weekly sales trend analysis highlights seasonal patterns and supports demand forecasting.
--Company-wise sales comparisons reveal top-performing brands and opportunities for business improvement.
--Interactive filters allow users to explore sales data efficiently and make informed, data-driven decisions.
+1. The dashboard provides a comprehensive view of car sales performance through interactive and dynamic visualizations.
+2. Year-to-Date (YTD), Month-to-Date (MTD), and Year-over-Year (YOY) KPIs enable continuous monitoring of business growth and performance.
+3. Sales analysis by body style, color, and dealer region helps identify high-performing product categories and geographic markets.
+4. Weekly sales trend analysis highlights seasonal patterns and supports demand forecasting.
+5. Company-wise sales comparisons reveal top-performing brands and opportunities for business improvement.
+6. Interactive filters allow users to explore sales data efficiently and make informed, data-driven decisions.
 
 ## Final Conclusion
 
