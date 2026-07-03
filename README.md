@@ -1,1 +1,1 @@
-r Car Sales Dashboard (Power BI)
+Car Sales Dashboard | Power BI
